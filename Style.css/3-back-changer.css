@@ -1,0 +1,59 @@
+body {
+    margin: 0px;
+    padding: 20px 100px;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+
+p {
+    font-size: 20px;
+    text-align: justify;
+}
+
+.btn {
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    border: solid gray 2px;
+    border-radius: 50%;
+    cursor: pointer;
+    
+}
+
+#white {
+    background-color: white;
+}
+
+#aqua {
+    background-color: aquamarine;
+}
+
+#violet {
+    background-color: #ce9aff;
+}
+
+#black{
+    background-color: black;
+}
+#yellow{
+    background-color: #ffff00;
+}
+#darkgreen{
+    background-color: darkgreen;
+}
+#lightgreen{
+    background-color: lightgreen;
+}
+
+#color-Switcher{
+    text-align: right;
+}
