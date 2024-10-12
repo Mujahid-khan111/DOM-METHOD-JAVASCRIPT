@@ -1,1 +1,2 @@
-DOM
+DOM method on javascript
+
