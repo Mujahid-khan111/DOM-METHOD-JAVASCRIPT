@@ -1,2 +1,1 @@
 DOM method on javascript
-
